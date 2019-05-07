@@ -1,3 +1,3 @@
 # gt
-short test of git commands for demonstration
+short example of git commands for demonstration
 test
